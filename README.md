@@ -11,3 +11,6 @@ Feature:-
 - Like - Dislike Post
 - Follow - Unfollow User 
 - Get All Post
+
+node_modules:- npm install
+run  :- npm start
